@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Anton.
+![](https://komarev.com/ghpvc/?username=AlmightyHolton)
 
 ### I'm a novice programmer, and manual testing specialist.
 
