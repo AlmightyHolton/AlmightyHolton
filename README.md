@@ -16,3 +16,6 @@
 [<img align="left" alt="almightyholton | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 [vk]: https://vk.com/almightyholton
+
+
+[![Almighty GitHub stats](https://github-readme-stats.vercel.app/api?username=almightyholton)](https://github.com/almightyholton/github-readme-stats)
