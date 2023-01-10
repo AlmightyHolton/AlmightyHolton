@@ -11,5 +11,7 @@
 * 🎮 I love video games and everything related to them;
 * 👘 Studying at GeekBrains, learning karate, and web-design.
 
-
+### Connect with me:
 [<img align="left" alt="almightyholton | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+[vk]: https://vk.com/almightyholton
