@@ -20,4 +20,9 @@
 <br />
 <br />
 
+### Languages and Tools:
+
+<br />
+<br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almightyholton)](https://github.com/almightyholton/github-readme-stats)
