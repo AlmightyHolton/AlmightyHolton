@@ -26,5 +26,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almightyholton)](https://github.com/almightyholton/github-readme-stats)
 
 <details>
-  <summary>: Statistics GitHub:</summary>
+  <summary> Statistics GitHub:</summary>
    <img align="left" alt= alt="codeSTACKr's GitHub Stats" scr="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almightyholton)](https://github.com/almightyholton/github-readme-stats) />
