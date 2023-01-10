@@ -24,5 +24,5 @@ SOON
 
 <details>
   <summary>:zap: Statistics:</summary>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=almightyholton&show_icons=true" />
-</details>   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=almightyholton&show_icons=true" /> <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almightyholton&langs_count=8&layout=compact" />
+</details>   
