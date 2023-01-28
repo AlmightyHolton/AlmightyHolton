@@ -12,24 +12,6 @@
 * 🎮 I love video games and everything related to them;
 * 👘 Studying at GeekBrains, learning karate, and web-design.
 
-### Connect with me:
-[<img align="left" alt="almightyholton | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
-[vk]: https://vk.com/almightyholton
-
-<br />
-
-### Languages and Tools:
-SOON
-
-<details>
-  <summary>:zap: Statistics:</summary>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=almightyholton&show_icons=true" />
-</details>   
-
-
-<a href="https://www.github.com/AlmightyHolton" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AlmightyHolton?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
