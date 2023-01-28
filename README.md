@@ -12,6 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌄 I like to travel and discover something new; 
 * 🎮 I love video games and everything related to them;
 * 👘 Studying at GeekBrains, learning karate, and web-design.
+* ✉️  You can contact me at [almighty.holton@gmail.com](mailto:almighty.holton@gmail.com)
 
 ### Skills
 
