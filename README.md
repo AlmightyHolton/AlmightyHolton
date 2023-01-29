@@ -37,3 +37,7 @@ Hi, My name is Anton!
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/AlmightyHolton"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
