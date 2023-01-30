@@ -1,6 +1,7 @@
 Hi, My name is Anton!
 ==============================================================================================================================
 ![](https://komarev.com/ghpvc/?username=AlmightyHolton)
+[![An image of @almightyholton's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/almightyholton)](https://holopin.io/@almightyholton)
 
 ### I'm a novice programmer, and manual testing specialist.
 
