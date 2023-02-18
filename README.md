@@ -4,7 +4,7 @@ Hi, My name is Anton!
 [![An image of @almightyholton's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/almightyholton)](https://holopin.io/@almightyholton)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### I'm a novice programmer, and manual testing specialist.
-Flying through the clouds like a zeppelin but losing my grip like an acrobat
+Flying through the clouds like a zeppelin...
 
 ### Few words about myself:
 
