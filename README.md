@@ -9,7 +9,7 @@ Hi, My name is Anton!
 
 ### Few words about myself:
 
-
+* 📚 I like to read smart books; 
 * 📚 I like to read smart books; 
 * 💻 I study C#, I help others develop; 
 * 🌄 I like to travel and discover something new; 
