@@ -3,13 +3,12 @@ Hi, My name is Anton!
 ![](https://komarev.com/ghpvc/?username=AlmightyHolton)
 [![An image of @almightyholton's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/almightyholton)](https://holopin.io/@almightyholton)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### I'm a novice programmer, and manual testing specialist.
 
 ### Few words about myself:
 
-* 📚 I like to read smart books; 
 * 📚 I like to read smart books; 
 * 💻 I study C#, I help others develop; 
 * 🌄 I like to travel and discover something new; 
