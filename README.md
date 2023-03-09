@@ -14,7 +14,7 @@ Hi, My name is Anton!
 * 🌄 I like to travel and discover something new; 
 * 🎮 I love video games and everything related to them;
 * 👘 Studying at GeekBrains, learning karate, and web-design.
-* ✉️  You can contact me at [almighty.holton@gmail.com](mailto:almighty.holton@gmail.com)
+* ✉️  You can contact me at [almighty.holton@vk.com](mailto:almighty.holton@@vk.com)
 
 ### Skills
 
