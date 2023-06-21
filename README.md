@@ -16,7 +16,7 @@ Hi, My name is Anton!
 * 👘 Studying at GeekBrains, learning karate, and web-design.
 * ✉️  You can contact me at [almightyholton@vk.com](mailto:almightyholton@@vk.com)
 
-### Skills
+### Skills:
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -27,7 +27,7 @@ Hi, My name is Anton!
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+### Socials:
 
 <p align="left"> 
 <a href="https://vk.com/almightyholton" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" width="36" height="36" /></a>  
@@ -36,7 +36,7 @@ Hi, My name is Anton!
 <a href="https://www.behance.com/antonvedernikov" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/vdvgZw5/1.png" width="36" height="36" /></a>
 <a href="https://www.linkedin.com/in/AlmightyHolton" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="36" height="36" /></a></p>
 
-### Support Me
+### Support Me:
 
 <a href="https://www.buymeacoffee.com/AlmightyHolton"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <p align="center">
