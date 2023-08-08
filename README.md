@@ -72,6 +72,9 @@ If you suddenly liked some of my projects, then you can thank me and buy me a cu
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
+I have good control over the pen in Illustrator and the brush in Photoshop. In my free time, I try to tame [Python](https://www.python.org/).
+
+
 
 #
 
