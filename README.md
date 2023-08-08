@@ -16,6 +16,8 @@ Hi, My name is Anton!
 * 👘 Studying at GeekBrains, learning karate, and web-design.
 * ✉️  You can contact me at [almightyholton@vk.com](mailto:almightyholton@@vk.com)
 
+I have good control over the pen in Illustrator and the brush in Photoshop. In my free time, I try to tame [Python](https://www.python.org/).
+
 ### Languages and Tools:
 
 <p align="left">
