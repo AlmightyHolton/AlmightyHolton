@@ -36,6 +36,11 @@ Hi, My name is Anton!
 <a href="https://www.behance.com/antonvedernikov" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/vdvgZw5/1.png" width="36" height="36" /></a>
 <a href="https://www.linkedin.com/in/AlmightyHolton" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="36" height="36" /></a></p>
 
+#
+
+<div align="center">
+
+</div>
 
 ### Projects and Dev Stuffs:
 
