@@ -41,20 +41,5 @@ Hi, My name is Anton!
 
 <a href="https://www.buymeacoffee.com/AlmightyHolton"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <p align="center">
-
-
-
-
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightyholton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</details>
-
-
-  
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
