@@ -48,6 +48,7 @@ Hi, My name is Anton!
 
 
 ### Support Me:
+If you suddenly liked some of my projects, then you can thank me and buy me a cup of coffee.
 
 <a href="https://www.buymeacoffee.com/AlmightyHolton"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <p align="center">
