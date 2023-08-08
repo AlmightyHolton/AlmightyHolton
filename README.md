@@ -27,6 +27,12 @@ Hi, My name is Anton!
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" width="36" height="36" alt="Figma" /></a>
 </p>
 
+#
+
+<div align="center">
+
+</div>
+
 ### Socials:
 
 <p align="left"> 
