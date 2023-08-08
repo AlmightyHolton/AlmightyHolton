@@ -57,6 +57,11 @@ Hi, My name is Anton!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightyholton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </details>
 
+#
+
+<div align="center">
+
+</div>
 
 ### Support Me:
 If you suddenly liked some of my projects, then you can thank me and buy me a cup of coffee.
