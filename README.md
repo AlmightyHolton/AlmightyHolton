@@ -6,6 +6,7 @@ Hi, My name is Anton!
 <img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### I'm a novice programmer, and manual testing specialist.
+I'm glad you checked out my profile. I'm learning to program 🐍, but most of all I'm love testing different applications and looking for bugs🐛. I take part in the creation of useful software for users 🛠️.
 
 ### Few words about myself:
 
