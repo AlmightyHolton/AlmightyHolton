@@ -37,6 +37,16 @@ Hi, My name is Anton!
 <a href="https://www.linkedin.com/in/AlmightyHolton" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="36" height="36" /></a></p>
 
 
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightyholton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</details>
+
+
 ### Support Me:
 
 <a href="https://www.buymeacoffee.com/AlmightyHolton"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
